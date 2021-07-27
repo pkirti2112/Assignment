@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Nasa Mars Images";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Nasa Mars Images</h1>
+    @*<input type="button" value="Download Images" onclick="location.href='@Url.Action("Index","Home")'"/>*@
+    @using(Html.BeginForm("Index","Home",FormMethod.Post))
+            {
+                <input type="submit"  id="btnDownload" name="Download" />
+            }
+</div>

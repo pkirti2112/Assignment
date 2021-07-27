@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rxC2t4kymBkne/QtHbEewVLGsfP5NTTYS7Au19ibpT4nSNq1+kTclUnxicQFIaQSnEBh2bO6wSQ+2HF811lcyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\NasaImageApp\\NasaImageApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
